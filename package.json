@@ -1,0 +1,7 @@
+{
+  "name": "datastar-webjar-monorepo",
+  "private": true,
+  "workspaces": [
+    "library"
+  ]
+}
